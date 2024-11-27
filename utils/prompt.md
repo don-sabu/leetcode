@@ -17,3 +17,6 @@ My Code:
     - The whole problem statement (blockquote each examples)
     - My code
     - Explanation of my code in the markdown file which is in a paragraph or two. It must be simple
+
+Note: A problem I have noticed in your previous responses for this prompt is that after generating the markdown of the code, there is a closing grave accent symbol, causing you to close the whole markdown of the response resulting in the explanation part being generated as not markdown. So you generate the explanation markdown separately.
+
