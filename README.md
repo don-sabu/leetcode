@@ -2,11 +2,12 @@
 
 ## Problems
 
-| #   | Problem                                               | Difficulty                                                        | Link                                                         |
-|-----|-------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------|
-| 1   | [Two Sum](solutions/1_two_sum.md)                     | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen)    | [LeetCode](https://leetcode.com/problems/two-sum/)           |
-| 9   | [Palindrome Number](solutions/9_palindrome_number.md) | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen)    | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
-| 136 | [Single Number](solutions/136_single_number.md)       | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen)    | [LeetCode](https://leetcode.com/problems/single-number/)     |
+| #   | Problem                                                                   | Difficulty                                                     | Link                                                                   |
+|-----|---------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|
+| 1   | [Two Sum](solutions/1_two_sum.md)                                         | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/two-sum/)                     |
+| 4   | [Median of Two Sorted Arrays](solutions/4_median_of_two_sorted_arrays.md) | ![Static Badge](https://img.shields.io/badge/Hard-red)         | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 9   | [Palindrome Number](solutions/9_palindrome_number.md)                     | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/palindrome-number/)           |
+| 136 | [Single Number](solutions/136_single_number.md)                           | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/single-number/)               |
 
 
 
