@@ -18,7 +18,6 @@ My Code:
     - The whole problem statement (blockquote each examples)
     - My code
     - Stop Markdown
-4. Create another markdown code for writing the explanation
     - Explanation of my code in the markdown file which is in a paragraph or two. It must be simple
 
 
