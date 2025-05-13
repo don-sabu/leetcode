@@ -27,6 +27,7 @@ This repo contains the leetcode problems I have solved. Checkout the below table
 | 238 | [Product of Array Except Self](solutions/238_product_of_array_except_self.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |   [Hashing/Array](concepts/hashing.md)    |
 | 242 | [Valid Anagram](solutions/242_valid_anagram.md) | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Hashing/Array](concepts/hashing.md) |
 | 347 | [Top K Frequent Elements](solutions/347_top_k_frequent_elements.md)                     |  ![Static Badge](https://img.shields.io/badge/Medium-yellow)   |       [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)    | [Hashing/Array](concepts/hashing.md) |
+| 704 | [Binary Search](solutions/704_binary_search.md) | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/binary-search/) | [Binary Search](concepts/binary_search.md) |
 | 739 | [Daily Temperatures](solutions/739_daily_temperatures.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | [Stack](concepts/stack.md) |
 | 853 | [Car Fleet](solutions/853_car_fleet.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/car-fleet/) | [Hashing](concepts/hashing.md), [Stack](concepts/stack.md) |
 
