@@ -31,6 +31,7 @@ This repo contains the leetcode problems I have solved. Checkout the below table
 | 704 | [Binary Search](solutions/704_binary_search.md) | ![Static Badge](https://img.shields.io/badge/Easy-brightgreen) | [LeetCode](https://leetcode.com/problems/binary-search/) | [Binary Search](concepts/binary_search.md) |
 | 739 | [Daily Temperatures](solutions/739_daily_temperatures.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | [Stack](concepts/stack.md) |
 | 853 | [Car Fleet](solutions/853_car_fleet.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/car-fleet/) | [Hashing](concepts/hashing.md), [Stack](concepts/stack.md) |
+| 875 | [Koko Eating Bananas](solutions/875_koko_eating_bananas.md) | ![Static Badge](https://img.shields.io/badge/Medium-yellow) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](concepts/binary_search.md) |
 
 
 
